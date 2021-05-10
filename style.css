@@ -1,13 +1,21 @@
-body{
-  padding:0;
-  margin:0;
+html {
+  border: 0;
+  margin: 0;
+  padding: 0;
 }
 
-p{
-  font-family: 'Press Start 2P';
+body {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  background-color: black;
+}
+
+p {
+  font-family: "Press Start 2P";
   font-size: 200px;
 }
 
 * {
-cursor: none;
+  cursor: none;
 }
